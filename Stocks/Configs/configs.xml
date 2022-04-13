@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configs>
+  <base_dados>
+    <server>.\SQLEXPRESS</server>
+    <bd>database_name</bd>
+    <user>username</user>
+    <pass>password</pass>
+    <trusted_conection>false</trusted_conection>
+  </base_dados>
+  <ui>
+    <start_maximized>false</start_maximized>
+  </ui>
+</configs>
